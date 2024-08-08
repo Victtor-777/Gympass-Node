@@ -11,8 +11,7 @@
 - [] Deve ser possível o usuário buscar academais pelo nome;
 - [x] Deve ser possível o usuário realizar check-in em uma academia;
 - [] Deve ser possível validar o check-in de um usuário;
-- [] Deve ser possível cadastrar uma academia;
-- [] Deve ser possível
+- [x] Deve ser possível cadastrar uma academia;
 
 ## RNs (Regras de negócio)
 
@@ -22,7 +21,6 @@
 - [] O check-in só pode ser validado até 20 minutos após ser criado;
 - [] O check-in só pode ser validado por administradores;
 - [] A academia só pode ser cadastrada por administradores;
-- [] Deve ser possível
 
 ## RNFs (Requisitos não funcionais)
 
