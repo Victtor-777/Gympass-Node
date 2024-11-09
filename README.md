@@ -30,3 +30,30 @@ Back-end para uma aplicação para check-ins em academias, estilo gympass, aplic
 - [x] Os dados da aplicação precisam estar persistidos em um banco PostgreeSQL;
 - [x] Todas listas de dados precisam estar paginadas com 20 itens por página;
 - [x] O usuário deve ser indentificado por um JWT (JSON Web Token);
+
+## ⚙ Clonando Projeto
+
+```
+# Faça o clone do repotório
+  git clone git@github.com:RenanFachin/RS_IGNITE_api-solid.git
+
+# Instalar as dependências do projeto
+  npm install
+
+# Rodar as migrations do projeto para criar o banco de dados
+  npx prisma migrate dev
+
+# Executando o projeto no ambiente de desenvolvimento
+  npm run dev
+```
+
+## 🚀 Tecnologias
+
+- Node.js
+- TypeScript
+- Fastify
+- Prisma
+- Docker
+- Zod
+- Vitest
+- MySQL
