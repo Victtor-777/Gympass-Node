@@ -1,6 +1,6 @@
-# GymPass style app
+# GymPass (Back-end API)
 
-Back-end para uma aplicação para check-ins em academias, estilo gympass, aplicando conceitos do SOLID, Design Patterns, Docker para iniciar o banco de dados, JWT e Refresh Token, RBAC e diversos outros conceitos. A aplicação está bem completa com todas as funcinalidades de um gympass e com validações de dados utilizando o ZOD, testes unitários e e2e, além de utilizar o github actions para um CI/CD.
+API Back-end para uma aplicação para check-ins em academias, estilo gympass, aplicando conceitos do SOLID, Design Patterns, Docker para iniciar o banco de dados, JWT e Refresh Token, RBAC e diversos outros conceitos. A aplicação está bem completa com todas as funcinalidades de um gympass e com validações de dados utilizando o ZOD, testes unitários e e2e, além de utilizar o github actions para um CI/CD.
 
 ## RFs (Requisitos funcionais)
 
