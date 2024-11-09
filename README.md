@@ -35,7 +35,7 @@ API Back-end para uma aplicação para check-ins em academias, estilo gympass, a
 
 ```
 # Faça o clone do repotório
-  git clone git@github.com/Victtor-777/Ignite03-API-Nodejs-with-Solid.git
+  git clone git@github.com/Victtor-777/Gympass-Node.git
 
 # Instalar as dependências do projeto
   npm install
